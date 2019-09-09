@@ -45,5 +45,5 @@ state-of-the-art object detection accuracy on PASCAL
 VOC 2007 (73.2% mAP) and 2012 (70.4% mAP) using 300
 proposals per image. I implemented the code in python
 using TensorFlow (low-level API).
-MOTIVATION
+
 
