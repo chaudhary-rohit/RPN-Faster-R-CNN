@@ -652,15 +652,6 @@ if __name__ == '__main__':
                if i % 500 == 0:
                    Saver.save(sess, 'RPN_weights', global_step=i)
          
-       
-       
-       
-
-       
-       
-       
-       
-       
-       
-            
-            
+       #Main function to be declared 
+       #Train and test function have to be invoked for training on required dataset
+       #Location has to be set properly to pick up images and labels    
